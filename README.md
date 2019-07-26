@@ -1,2 +1,2 @@
-# AprendendoOpenCV
-Aprendendo a biblioteca OpenCV
+# ApreendendoOpenCV
+Apreendendo a biblioteca OpenCV
