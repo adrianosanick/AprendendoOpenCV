@@ -1,0 +1,17 @@
+# ApreendendoOpenCV
+Apreendendo a biblioteca OpenCV
+
+Ambiente criado pelo anaconda: LVCP
+-Numpy - conda install numpy
+-python=2.7 
+-Mathplotlib
+-Statistic
+-Scikit-learning
+
+-OpenCV - pip install opencv-python
+
+Todas as características do ambiente: environment.yaml
+
+Para criar um ambiente de um arquivo de ambiente, use o comando: conda env create -f environment.yaml 
+
+Isso criará um novo ambiente com o mesmo nome contido no arquivo environment.yaml.
